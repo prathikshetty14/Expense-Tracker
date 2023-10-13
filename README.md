@@ -40,7 +40,7 @@ To get started with the Expense Tracker, follow the installation and usage instr
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/expense-tracker
+   git clone https://github.com/prathikshetty14/Expense-Tracker
 2. Install project dependencies:
   ```
   cd expense-tracker
