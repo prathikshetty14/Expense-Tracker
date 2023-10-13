@@ -42,19 +42,19 @@ To get started with the Expense Tracker, follow the installation and usage instr
    ```sh
    git clone https://github.com/prathikshetty14/Expense-Tracker
 2. Install project dependencies:
-  ```
-  cd expense-tracker
-  npm install
-  ```
+   ```
+   cd expense-tracker
+   npm install     
+   ```     
 
 ## Usage
 
 1. Configure Firestore: Set up a Firestore database and obtain the necessary credentials.
 2. Set up Firebase: Create a Firebase project and add the Firebase configuration to your project.
 3. Start the development server:
-  ```
-  npm start
-  ```
+   ```
+   npm start
+   ```
 4. Open your browser and navigate to `http://localhost:3000` to use the Expense Tracker.
 
 ## Author
